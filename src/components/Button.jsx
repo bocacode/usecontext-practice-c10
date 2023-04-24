@@ -1,11 +1,11 @@
-// 1) import useContext
+// 1) Import useContext Hook
 import { useContext } from "react";
 
-// 2) import UserText 
+// 2) Import context object which is UserStatus
 import { UserStatus } from "../App.js";
 
 export default function Button () {
-    // 3) Use UserText
+    // 3) Utilized context object
     const[signedIn, setSignedIn] = useContext(UserStatus);
 
     return (

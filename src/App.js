@@ -1,9 +1,12 @@
-// 1) Import createContext
+// 1) Import createContext Hook
 import { useState, createContext } from 'react';
 import Page from './components/Page.jsx';
 import './App.css';
 
-// 2) create and export 
+// 2) Create and export a context object
+
+/* Why is the context object capitlized?
+It's a convention to capitalize the first letter of constants that hold context objects, so that it's clear they are special objects that have a significant role in the application's architecture. This helps make it easier for other developers to understand the code and to work with the context object in their own components. */
 export const UserStatus = createContext(null);
 
 function App() {

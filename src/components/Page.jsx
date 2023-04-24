@@ -1,7 +1,6 @@
 import SubPage from "./SubPage.jsx";
 import Button from "./Button.jsx";
 
-
 export default function Page () {
     return (
         <>
