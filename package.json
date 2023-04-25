@@ -2,7 +2,7 @@
   "name": "usecontext-practice",
   "version": "0.1.0",
   "private": true,
-  "gh-pages": "https://bocacode.github.io/usecontext-practice-c10",
+  "homepage": "https://bocacode.github.io/usecontext-practice-c10",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
