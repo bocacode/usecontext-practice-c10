@@ -6,7 +6,7 @@
 <br>
 
 ## Question.
-In App.js why is the context object (which we created) `UserStatus` capitlized, unlike other variables created using `const`?
+In App.js why is the context object `UserStatus` (which we created) capitlized, unlike other variables created using `const`?
 ```
 Line 7: export const UserStatus = createContext(null);
 ```
