@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.0a1a216d.js",
-    "index.html": "/index.html",
-    "main.0a1a216d.js.map": "/static/js/main.0a1a216d.js.map"
+    "main.css": "/usecontext-practice-c10/static/css/main.31d6cfe0.css",
+    "main.js": "/usecontext-practice-c10/static/js/main.0a1a216d.js",
+    "index.html": "/usecontext-practice-c10/index.html",
+    "main.0a1a216d.js.map": "/usecontext-practice-c10/static/js/main.0a1a216d.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
